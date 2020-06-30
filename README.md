@@ -1,5 +1,5 @@
 # Electric_load_forecasting
-load prediction using LSTM network
+#load prediction using LSTM network.
 This Electric Load Forecast project is done using LSTM network in keras tensorflow framework.
 .csv data file for this project is given in data folder selected_data_ISONE.csv.
 It is recommended to use Jupyter Notebook or Google Colab(I've train this model in google colab TPU runtime) to run this project.
